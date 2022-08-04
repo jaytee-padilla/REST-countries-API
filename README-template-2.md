@@ -14,9 +14,14 @@
 ### Skills
 
 - Semantic HTML5 markup
-- Sass Preprocessor
-- Javascript
+- Sass/SCSS Preprocessor
+- Bulma CSS Framework
 - Flexbox
+- Javascript
+- Typescript
+- [REST Countries API](https://restcountries.com)
+- Axios HTTP Client
+- Webpack
 - Mobile-first workflow
 
 ### The Challenge
